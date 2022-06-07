@@ -19,6 +19,7 @@ useContext
 -dispatch -
 By Rovin Singh
 
+- `npm i redux react-redux`
 - createStore
 - create Reducer Function
 - wrap
