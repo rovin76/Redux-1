@@ -18,3 +18,7 @@ useContext
 -actions
 -dispatch -
 By Rovin Singh
+
+- createStore
+- create Reducer Function
+- wrap
