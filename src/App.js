@@ -7,7 +7,7 @@ function App() {
   const state = useSelector((state) => state);
   return (
     <div className="App">
-      <h1>Counter :{state.count}</h1>
+      <h1>Counter : {state.count}</h1>
       <button onClick={() => dispatch({ type: "add" })}>+</button>
       <button onClick={() => dispatch({ type: "sub" })}>-</button>
     </div>
