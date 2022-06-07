@@ -19,7 +19,10 @@ useContext
 -dispatch -
 By Rovin Singh
 
-- `npm i redux react-redux`
-- createStore
+- cmd: `npm i redux react-redux`
 - create Reducer Function
-- wrap
+- createStore and Pass Reducer Function and initialState to it.
+- wrap our Application ReduxeProvider and pass store to it.
+- using useDispatch and useSelector in our application
+  - useDispatch to perform action
+  - useSelector for reading data from store
