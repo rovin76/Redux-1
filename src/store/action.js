@@ -1,3 +1,3 @@
 import { INCREMENT, DECREMENT } from "./action.types";
-export const add = () => ({ type: INCREMENT });
-export const sub = () => ({ type: DECREMENT });
+export const add = (value) => ({ type: INCREMENT, payload: value });
+export const sub = (value) => ({ type: DECREMENT, payload: value });

@@ -31,6 +31,7 @@ Action Types Files :-
 Actions :-
 
 - create action.js file and do all the functions .
-- pass these function inside dispatch
+- pass these functions inside dispatch
+- manage the argument of action too.
 
 = Created BY Rovin Singh 07/06/2022
