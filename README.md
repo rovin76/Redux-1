@@ -6,16 +6,18 @@
 
 # Redux-1 :
 
--> It is a single place to manage all information.
--actions
--dispatch -
-By Rovin Singh
+It is a single place to manage all information.
 
-- cmd: `npm i redux react-redux`
-- create Reducer Function.
-- create initial state.
-- createStore and Pass Reducer Function and initialState to it.
-- wrap our Application ReduxeProvider and pass store to it.
-- using useDispatch and useSelector in our application.
+- actions
+- dispatch
+
+* cmd: `npm i redux react-redux`
+* create Reducer Function.
+* create initial state.
+* createStore and Pass Reducer Function and initialState to it.
+* wrap our Application ReduxeProvider and pass store to it.
+* using useDispatch and useSelector in our application.
   - useDispatch to perform action.
   - useSelector for reading data from store.
+
+# Created BY Rovin Singh 07/06/2022
