@@ -23,7 +23,14 @@ Journey of Reduxe :
   - useDispatch to perform action.
   - useSelector for reading data from store.
 
+Action Types Files :-
+
 - create action.types.js file for keeping all the dispatch type variable.
 - pass these variables all pages where required.
+
+Actions :-
+
+- create action.js file and do all the functions .
+- pass these function inside dispatch
 
 = Created BY Rovin Singh 07/06/2022
